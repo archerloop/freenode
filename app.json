@@ -1,6 +1,6 @@
 {
     "name": "gayhub",
-    "description": "",
+    "description": "go",
     "keywords": ["vmess vless trojan shadowsocks socks"],
     "env": {
         "AA": {
